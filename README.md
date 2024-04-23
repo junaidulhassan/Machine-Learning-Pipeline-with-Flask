@@ -1,3 +1,5 @@
+# Project Name : Deploy Machine Learning Pipeline with Flask
+
 **Project Description:**
 
 The "Bank Churn Prediction" project aims to provide a web-based platform for predicting the likelihood of a customer leaving a bank (churn prediction) based on various features such as credit score, geography, gender, age, tenure, balance, number of products, presence of a credit card, activity status, and estimated salary. The project utilizes a machine learning model trained on historical banking data to make these predictions.
